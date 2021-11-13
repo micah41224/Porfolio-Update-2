@@ -1,6 +1,6 @@
-# 02-Advanced-CSS-Homework
+# Portfolio-Update-2
 
-Week Two Homework: Advanced CSS Porfolio Page
+Project 2 continued: updated portfolio page
 
 ## Project Description
 
@@ -8,12 +8,12 @@ The main objective of this project is to create an aesthetically pleasing, fully
 
 ## Link to application on Github:
 
-https://github.com/micah41224/02-Advanced-CSS-Homework
+https://github.com/micah41224/Porfolio-Update-2
 
 ## Link to deployed application:
 
-https://micah41224.github.io/02-Advanced-CSS-Homework/
+https://micah41224.github.io/Porfolio-Update-2/
 
 ## Screenshots
 
-![Completed Application Screenshot](assets/images/Final_Screenshot.png)
+![Completed Application Screenshot](assets/images/Full-Page-Desktopsize-SS.png)
