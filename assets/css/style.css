@@ -24,11 +24,15 @@ body {
   background-color: rgb(117, 127, 134);
 }
 
+.col-sm {
+  margin-bottom: 10px;
+}
+
 #absolute-h1 {
-  position: absolute;
+  /* position: absolute; */
   top: 10px;
   left: 10px;
-  size: 1%;
+  font-size: 240%;
 }
 
 #absolute-h2 {
@@ -57,7 +61,7 @@ body {
   height: 100%;
   /* width: 75%; */
   display: inline-block;
-  border-left: 5px solid black;
+  /* border-left: 5px solid black; */
 }
 
 .container h2 {
@@ -103,10 +107,27 @@ body {
   */
 
 footer {
+  /* display: table; */
   text-align: center;
   background-color: rgb(119, 190, 238);
-  padding: 35px;
+  /* padding: 35px; */
+  margin-left: auto;
+  margin-right: auto;
 }
+
+#footerDiv {
+  width: 100%;
+  padding: 20px;
+  background-color: rgb(119, 190, 238);
+  text-align: center;
+}
+
+/* #footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+} */
 
 #about-picture {
   padding-right: 20px;
@@ -182,6 +203,7 @@ a {
   position: absolute;
   right: 0;
   top: 0;
+  /* height: 90%; */
 }
 
 /* Add a grey background color on mouse-over */
@@ -193,7 +215,16 @@ a {
 /* Style the active link (or home/logo) */
 .active {
   background-color: rgb(119, 190, 238);
-  color: white;
+  /* color: white; */
+}
+
+#active {
+  color: black;
+  font-size: 240%;
+}
+
+.card {
+  margin-bottom: 10px;
 }
 
 .card-header {
@@ -206,6 +237,10 @@ a {
 
 .top-buffer {
   margin-top: 20px;
+}
+
+.wholePage {
+  justify-content: center;
 }
 
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
